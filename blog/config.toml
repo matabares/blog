@@ -16,16 +16,16 @@ disqusShortname = "yourdiscussshortname"
 [params]
     author = "Mauricio Tabares"
     info = "All life student and bugs developer"
-    description = "John Doe's personal website"
+    description = "Mauricio Tabares's personal website"
     keywords = "blog,developer,personal"
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "images/profile_image.png"
 
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "Enter a text here."
+    footercontent = "Everything is about trial and error."
 
-    hidecredits = false
+    hidecredits = true
     hidecopyright = false
 
     rtl = false
