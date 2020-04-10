@@ -15,7 +15,7 @@ disqusShortname = "yourdiscussshortname"
 
 [params]
     author = "Mauricio Tabares"
-    info = "All life student and bugs developer"
+    info = "Student till die. Bugs developer."
     description = "Mauricio Tabares's personal website"
     keywords = "blog,developer,personal"
     avatarurl = "images/profile_image.png"
@@ -44,3 +44,18 @@ disqusShortname = "yourdiscussshortname"
     icon = "fab fa-twitter fa-2x"
     weight = 3
     url = "https://twitter.com/matabares/"
+[[params.social]]
+    name = "Medium"
+    icon = "fab fa-medium"
+    weight = 5
+    url = "https://medium.com/@matabares"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "https://medium.com/@matabares"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"
